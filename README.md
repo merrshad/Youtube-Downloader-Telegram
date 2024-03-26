@@ -30,8 +30,11 @@ and ....
 # Requirements
 
 -Python +3.8
+
 -pytube
+
 -sqlite3
+
 -pyTelegramBotAPI
 
 
